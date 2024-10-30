@@ -1,3 +1,8 @@
+
+
+DESCRIPTION FOR THE TRIAL FILE(CURRENCY_CONVERTER):
+
+
 Importing Libraries:
 The code begins by importing tkinter (as tk) for GUI creation and webbrowser to open URLs in a browser.
 
